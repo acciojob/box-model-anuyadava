@@ -10,7 +10,7 @@ body {
 }
 
 /* Style for the container */
-.box {
+.container{
     display: flex; /* Arrange children in a row */
     justify-content: center; /* Center the blocks horizontally */
     align-items: center; /* Center the blocks vertically */
